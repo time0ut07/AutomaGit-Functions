@@ -3,7 +3,7 @@ title Automated Git Push - time0ut
 echo Automated Git - time0ut
 
 echo ================================================================================
-echo warning: Please be certain in which you know the changes you have made is ok
+echo warning: Please ensure that your changes works before pushing
 echo ================================================================================
 
 :: ensure that git is configured on your system
