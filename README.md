@@ -25,4 +25,4 @@ Execute the file and enter the repo name, commit message, and branch name (optio
 *Do note that this script needs to be in the same directory as your repo*
 
 
-![](https://imgur.com/u4s2VlI)
+![](https://imgur.com/u4s2VlI.png)
