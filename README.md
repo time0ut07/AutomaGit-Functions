@@ -1,4 +1,4 @@
-# Automated-Git-Push
+# Automated-Git Functions
 
 
 ## Warning
