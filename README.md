@@ -1,4 +1,4 @@
-# Automated-Git Functionszzz
+# Automated-Git Functions
 
 
 ## Warning
