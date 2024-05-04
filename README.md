@@ -47,3 +47,24 @@ Execute the file and enter the repo name, branch name (optional), and commit mes
 
 
 ![](https://imgur.com/bVuHnNJ.png)
+
+
+## Resources
+
+
+Here are some resources for fun
+
+
+[Rules for branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets)
+
+
+[Auto-Deletion of branch after pull](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-the-automatic-deletion-of-branches)
+
+
+[Creating Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+
+[Manual Pull](https://gist.github.com/ross-spencer/9c5c1f59212638c7c891d393087db6d1)
+
+
+[Git Push + Other commands](https://github.com/git-guides/git-push)
