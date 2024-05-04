@@ -55,6 +55,9 @@ Execute the file and enter the repo name, branch name (optional), and commit mes
 Here are some resources for fun
 
 
+### Links
+
+
 [Rules for branch](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets)
 
 
@@ -68,3 +71,12 @@ Here are some resources for fun
 
 
 [Git Push + Other commands](https://github.com/git-guides/git-push)
+
+
+### Commands
+
+
+`git rev-parse --abbrev-ref HEAD` Displays the current branch you are on
+
+
+`git status` Displays status (Current branch + changes made)
