@@ -49,7 +49,7 @@ Execute the file and enter the repo name, branch name (optional), and commit mes
 ![](https://imgur.com/bVuHnNJ.png)
 
 
-Now you can just go back to your page and open view the new branch, create a pull request to merge with the main branch
+Now you can just go back to your page and open view the new branch, create a pull request to merge with the main branch or just push more changes to your own branch before merging with main
 
 
 ## Resources
