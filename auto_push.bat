@@ -1,6 +1,6 @@
 @echo off
 title Automated Git Push - time0ut
-echo Automated Git - time0ut
+echo Automated Git Push - time0ut
 
 echo ================================================================================
 echo warning: Please ensure that your changes works before pushing
