@@ -1,4 +1,4 @@
-# Automated-Git Functions
+# AutomaGit Functions
 
 
 The scripts was crafted for fun and was aiming to reduce time and effort into a commit during my FYP period.
